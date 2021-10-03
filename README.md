@@ -30,9 +30,7 @@
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://ko-fi.com/sawada" alt="Donate!"> <img src="https://aleen42.github.io/badges/src/paypal.svg" /> </a>
-<a href="https://t.me/OnePunchUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://discord.animekaizoku.com" alt="Discord"> <img src="https://img.shields.io/discord/465068856692441090?style=flat&logo=discord&color=blue" /> </a>
+<a href="https://t.me/" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="" alt="AnimeKaizoku"> <img src="https://img.shields.io/badge/Built%20by-Kaizoku-blue" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
@@ -40,9 +38,9 @@
 
 
 
-Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+Makima is a bot for your group management , purely weeab themed.
 
-* Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
+* Bot Link:  <a href="https://t.me/" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
 * News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
